@@ -1,0 +1,16 @@
+[submodule "meta-embtom"]
+	path = meta-embtom
+	url = https://github.com/embtom/meta-embtom.git
+	branch = master
+[submodule "meta-imx6-cubox"]
+	path = meta-imx6-cubox
+	url = https://github.com/embtom/meta-imx6-cubox.git
+	branch = master
+[submodule "poky"]
+	path = poky
+	url = https://git.yoctoproject.org/git/poky
+	branch = thud-next
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+    branch = thud
